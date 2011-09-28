@@ -1,0 +1,3 @@
+<?php
+
+include_once('imagecache_grid_12_presets.features.inc');
